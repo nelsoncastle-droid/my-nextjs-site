@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ fontFamily: "Arial, sans-serif", textAlign: "center", marginTop: "50px" }}>
+      <h1>Welcome to My Site</h1>
+      <p>This is the homepage running on Next.js + Vercel.</p>
+    </div>
+  );
+}
